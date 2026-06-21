@@ -3,6 +3,9 @@
 「MATRIX R4 MissionGo Set(MA321)」で動作するシンプルなプログラムです。
 開発環境は「MATRIXblock」です。
 
+## 接続図
+<img width="742" height="600" alt="Image" src="https://github.com/user-attachments/assets/33b27df5-c69a-4a70-8b6b-76d9242e2d31" />
+
 ## ライセンス
 ・当プログラムの著作権は株式会社アフレルと松原拓也に帰属します。
 
